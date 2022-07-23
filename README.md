@@ -1,4 +1,4 @@
-Scss c использованием модулей: 
+Scss + модульный подход;
 
 UseState;
 
@@ -6,4 +6,4 @@ Useeffect;
 
 UseContext;
 
-MockApi;
+MockApi.
