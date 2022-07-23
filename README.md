@@ -1,5 +1,9 @@
-Scss c использованием модулей
-UseState
-Useeffect
-UseContext
-MockApi
+Scss c использованием модулей: 
+
+UseState;
+
+Useeffect;
+
+UseContext;
+
+MockApi;
