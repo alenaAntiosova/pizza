@@ -1,9 +1,1 @@
-Scss + модульный подход;
-
-UseState;
-
-Useeffect;
-
-UseContext;
-
-MockApi.
+https://alenaantiosova.github.io/pizza /
